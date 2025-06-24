@@ -1,4 +1,4 @@
-![Capture 2](https://github.com/user-attachments/assets/02704592-5836-4bd9-907c-fd4ddf425807)# Road-Accident-Prediction-
+
 🚧 Predict road accident severity using ML based on weather, time, and traffic data.
 📊 Perform data cleaning, EDA, and apply models like Random Forest &amp; XGBoost. 
 ✅ Evaluate using accuracy, precision, F1-score, and ROC-AUC. 
